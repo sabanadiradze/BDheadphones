@@ -1,4 +1,4 @@
 # BD Headphones Landing Page
-Preview link: https://sabanadiradze.github.io/BDheadphones/
+Preview link: https://majestic-naiad-4c231f.netlify.app/
 
 
