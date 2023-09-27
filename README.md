@@ -1,5 +1,4 @@
-# BD Headphones Landing Page - Week 2 assignment
-
-Preview link: 
+# BD Headphones Landing Page
+Preview link: https://sabanadiradze.github.io/BDheadphones/
 
 
